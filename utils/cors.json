@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["https://seniorassassin.excl.dev","http://localhost"],
+    "responseHeader": ["Content-Type"],
+    "method": ["PUT", "HEAD"],
+    "maxAgeSeconds": 3600
+  }
+]

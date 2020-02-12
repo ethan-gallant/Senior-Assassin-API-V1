@@ -1,0 +1,21 @@
+{
+  "neo4j": {
+    "password": "",
+    "user": "neo4j",
+    "uri": "bolt://:7687"
+  },
+  "gcs": {
+    "bucket": ""
+  },
+  "oauth": {
+    "redirect": "",
+    "id": "",
+    "secret": ""
+  },
+  "frontend": {
+    "url": ""
+  },
+  "jwt": {
+    "secret": ""
+  }
+}
